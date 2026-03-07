@@ -11,9 +11,13 @@ La información de los empleados se guarda en formato de tabla dentro del archiv
 
 ---
 
-<img width="872" height="554" alt="image" src="https://github.com/user-attachments/assets/7bccca0c-9dec-48d1-9c26-755b560d386a" />
-<img width="878" height="536" alt="image" src="https://github.com/user-attachments/assets/fe2d96eb-d922-4e33-b9a9-7af0b014bfa7" />
-<img width="890" height="540" alt="image" src="https://github.com/user-attachments/assets/c27daeb7-a995-4205-abaf-585889956747" />
+<img width="450" height="546" alt="image" src="https://github.com/user-attachments/assets/7bccca0c-9dec-48d1-9c26-755b560d386a" />
+
+<img width="450" height="536" alt="image" src="https://github.com/user-attachments/assets/fe2d96eb-d922-4e33-b9a9-7af0b014bfa7" />
+
+<img width="450" height="540" alt="image" src="https://github.com/user-attachments/assets/c27daeb7-a995-4205-abaf-585889956747" />
+
+<img width="450" height="556" alt="image" src="https://github.com/user-attachments/assets/47657cd8-d64b-42cc-a8ca-ef9f8b11c1a8" />
 
 
 ## Tecnologías Utilizadas
